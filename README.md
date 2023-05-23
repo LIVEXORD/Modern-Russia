@@ -1,2 +1,2 @@
 # Soviet Union
-Lead Russia, Vladimir Putin! Thanks to JOGANfruit for the unit sprites provided
+Communist Forever,There Will Be No More Capitalists
