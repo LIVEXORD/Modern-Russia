@@ -11,7 +11,7 @@ BuildingIcons/Severstal Company
   orig: 1040, 1041
   offset: 0, 0
   index: -1
-LeaderIcons/Vladimir Putin
+LeaderIcons/Joseph Stalin
   rotate: false
   xy: 4, 4
   size: 1026, 800
@@ -113,7 +113,7 @@ BuildingIcons/Monument to Lenin
   orig: 725, 725
   offset: 0, 0
   index: -1
-NationIcons/Eurasian Union
+NationIcons/Soviet Union
   rotate: false
   xy: 1345, 1369
   size: 512, 512
