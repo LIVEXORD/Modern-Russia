@@ -1,7 +1,7 @@
 [
   {
     "name": "City of Union significance",
-    "uniqueTo": "Eurasian Union",
+    "uniqueTo": "Soviet Union",
     "cost": 100,
     "production": 5,
     "culture": 2,
@@ -12,7 +12,7 @@
   {
     "name": "Monument to Lenin",
     "replaces": "Monument",
-    "uniqueTo": "Eurasian Union",
+    "uniqueTo": "Soviet Union",
     "culture": 3,
 		"cost": 40,
 		"hurryCostModifier": 40,
@@ -21,7 +21,7 @@
   },
   {
     "name": "Gazprom Company",
-    "uniqueTo": "Eurasian Union",
+    "uniqueTo": "Soviet Union",
     "isNationalWonder": true,
     "production": 10,
     "science": 4,
@@ -31,7 +31,7 @@
   },
   {
     "name": "Severstal Company",
-    "uniqueTo": "Eurasian Union",
+    "uniqueTo": "Soviet Union",
     "isNationalWonder": true,
     "production": 10,
     "culture": 4,
@@ -41,7 +41,7 @@
   },
   {
     "name": "Nornikel Company",
-    "uniqueTo": "Eurasian Union",
+    "uniqueTo": "Soviet Union",
     "isNationalWonder": true,
     "production": 10,
     "gold": 4,
@@ -51,7 +51,7 @@
   },
   {
     "name": "Park Gorkogo",
-    "uniqueTo": "Eurasian Union",
+    "uniqueTo": "Soviet Union",
     "isNationalWonder": true,
     "culture": 10,
     "happiness": 4,
@@ -61,7 +61,7 @@
   },
   {
     "name": "Moskovskiy Gosudarstvennyy Universitet",
-    "uniqueTo": "Eurasian Union",
+    "uniqueTo": "Soviet Union",
     "isNationalWonder": true,
     "science": 10,
     "happiness": 4,
