@@ -17,8 +17,8 @@
 
     "tradeRequest": "Мы готовы сотрудничать с вами на взаимовыгодных условиях!",
 
-    "outerColor": [155,0,255],
-    "innerColor": [255,255,255],
+    "outerColor": [255,0,0],
+    "innerColor": [255,255,0],
     "favoredReligion": "Christianity",
     "uniqueName": "Успешное объединение",
     "uniques": ["[5]% tile improvement construction time","Starts with [Civil Service]","[10]% [Gold] from Trade Routes"],
