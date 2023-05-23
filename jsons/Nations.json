@@ -1,7 +1,7 @@
 [
   {
-    "name": "Eurasian Union",
-    "leaderName": "Vladimir Putin",
+    "name": "Soviet Union",
+    "leaderName": "Joseph Stalin",
     "adjective": ["Евразийцы"],
     "startBias": ["Plains"],
     "preferredVictoryType": "Cultural",
@@ -20,7 +20,7 @@
     "outerColor": [255,0,0],
     "innerColor": [255,255,0],
     "favoredReligion": "Christianity",
-    "uniqueName": "Успешное объединение",
+    "uniqueName": "Soviet Union",
     "uniques": ["[5]% tile improvement construction time","Starts with [Civil Service]","[10]% [Gold] from Trade Routes"],
     "cities": ["Москва","Санкт-Петербург","Владивосток","Екатеринбург","Ростов-на-Дону","Минск","Гомель","Витебск","Брест","Гродно","Херсон","Одесса","Харьков","Донецк","Николаев","Астана","Алма-Ата","Караганда","Актобе","Шышкент","Бишкек","Ош","Каракол","Джалал-Абад","Токмак","Ереван","Гюмри","Ванадзор","Вагаршапат","Иджеван"]
   }
