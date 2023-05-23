@@ -1,2 +1,2 @@
-# Modern-Russia
+# Soviet Union
 Lead Russia, Vladimir Putin! Thanks to JOGANfruit for the unit sprites provided
