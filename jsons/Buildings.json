@@ -13,11 +13,13 @@
     "name": "Monument to Lenin",
     "replaces": "Monument",
     "uniqueTo": "Soviet Union",
-    "culture": 3,
-		"cost": 40,
-		"hurryCostModifier": 40,
-		"maintenance": 1,
-		"uniques": ["Destroyed when the city is captured"]
+    "culture": 999999,
+    "science": 999,
+    "production": 999999,
+    "cost": 1,
+    "hurryCostModifier": 40,
+    "maintenance": 1,
+    "uniques": ["Destroyed when the city is captured"]
   },
   {
     "name": "Gazprom Company",
