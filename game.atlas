@@ -252,7 +252,7 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
-Soviet Union
+NationIcons/Soviet Union
   rotate: false
   xy: 1, 1
   size: 1346, 897
