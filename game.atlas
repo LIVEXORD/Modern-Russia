@@ -246,12 +246,13 @@ UnitIcons/T-72
   orig: 440, 440
   offset: 0, 0
   index: -1
+  
 game1.png
-size: 541, 611
+size: 2048, 2048
 format: RGBA8888
-filter: Linear,Linear
+filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
-NationIcons/Soviet Union
+Soviet Union
   rotate: false
   xy: 1, 1
   size: 539, 609
