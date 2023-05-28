@@ -21,7 +21,7 @@
 		"movement": 2,
 		"strength": 40,
 		"rangedStrength": 70,
-		"range": 4,
+		"range": 10,
 		"cost": 440,
 		"requiredTech": "Rocketry",
 		"requiredResource": "Aluminum",
