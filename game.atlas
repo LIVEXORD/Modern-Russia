@@ -11,7 +11,7 @@ BuildingIcons/Severstal Company
   orig: 1040, 1041
   offset: 0, 0
   index: -1
-LeaderIcons/Joseph Stalin
+LeaderIcons/Joseph
   rotate: false
   xy: 4, 4
   size: 1026, 800
@@ -258,4 +258,17 @@ NationIcons/Soviet Union
   size: 453, 511
   orig: 457, 512
   offset: 1, 1
+  index: -1
+
+leaderIcon.png
+size: 1028, 802
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+LeaderIcons/Joseph Stalin
+  rotate: false
+  xy: 1, 1
+  size: 1026, 800
+  orig: 1026, 800
+  offset: 0, 0
   index: -1
