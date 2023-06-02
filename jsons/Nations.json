@@ -21,7 +21,8 @@
     "innerColor": [255,255,0],
     "favoredReligion": "Christianity",
     "uniqueName": "Soviet Union",
-    "uniques": ["[5]% tile improvement construction time",
+    "uniques": [
+                "[5]% tile improvement construction time",
                 "Starts with [Globalization]",
                 "Starts with [Particle Physics]",
                 "Starts with [Nuclear Fusion]",
@@ -50,7 +51,11 @@
                 "Starts with [Replaceable Parts]",
                 "Starts with [Flight]",
                 "Starts with [Railroads]",
-                "[10]% [Gold] from Trade Routes"],
+                "Starts with [Biology]",
+                "Starts with [Electricity]",
+                "Starts with [Steam Power]",
+                "Starts with [Dynamite]",
+               ],
     "cities": ["Москва","Санкт-Петербург","Владивосток","Екатеринбург","Ростов-на-Дону","Минск","Гомель","Витебск","Брест","Гродно","Херсон","Одесса","Харьков","Донецк","Николаев","Астана","Алма-Ата","Караганда","Актобе","Шышкент","Бишкек","Ош","Каракол","Джалал-Абад","Токмак","Ереван","Гюмри","Ванадзор","Вагаршапат","Иджеван"]
   }
 ]
