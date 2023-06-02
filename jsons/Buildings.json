@@ -11,7 +11,6 @@
   },
   {
     "name": "Monument to Lenin",
-    "replaces": "Monument",
     "uniqueTo": "Soviet Union",
     "gold": 9999,
     "culture": 999,
