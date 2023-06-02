@@ -46,7 +46,12 @@
 			    "[+150]% Strength <vs [Helicopter] units>", 
 			    "Never appears as a Barbarian unit",
 			   ],
-	        "promotions": ["Blitz"],
+	        "promotions": [
+			"Blitz",
+			"Woodsman",
+			"March",
+			"Formation ||",
+		],
 		"attackSound": "missile"
   },
   {
