@@ -45,8 +45,8 @@
 			    "[+150]% Strength <vs [Air] units>",
 			    "[+150]% Strength <vs [Helicopter] units>", 
 			    "Never appears as a Barbarian unit",
-			    "Unlocked [Blitz]",
 			   ],
+	        "promotions": ["Blitz"],
 		"attackSound": "missile"
   },
   {
