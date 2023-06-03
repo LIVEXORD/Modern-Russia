@@ -27,7 +27,21 @@
 		"requiredResource": "Aluminum",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
 			"[-1] Sight", "Never appears as a Barbarian unit"],
-		"promotions": ["Indirect Fire"],
+		"promotions": [
+			"Indirect Fire",
+			"Accuracy I",
+			"Accuracy II",
+			"Accuracy III",
+			"Volley",
+			"March",
+			"Extended Range",
+			"Logistic",
+			"Barrage I",
+			"Barrage II",
+			"Barrage III",
+			"Cover I",
+			"Cover II",
+		],
 		"attackSound": "artillery"
   },
   {
