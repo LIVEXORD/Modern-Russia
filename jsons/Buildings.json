@@ -27,7 +27,7 @@
     "isNationalWonder": true,
     "production": 10,
     "science": 4,
-    "uniques": ["Provides [5] [Oil]"],
+    "uniques": ["Provides [5] [Oil]","New [Military] units starts with [9999] Experience [in this city]"],
     "requiredTech": "Biology",
     "quote": "'Газпром - национальное достояние.' - слоган компании."
   },
