@@ -110,6 +110,18 @@
 		"requiredResource": "Aluminum",
 		"upgradesTo": "Giant Death Robot",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+	  	"promotions": [
+			"Shock I",
+			"Shock II",
+			"Schock III",
+			"Blitz",
+			"Charge",
+			"Mobility",
+			"Sentry",
+			"Drill I",
+			"Drill II",
+			"Drill III",
+		],
 		"attackSound": "tankshot"
   },
   {
