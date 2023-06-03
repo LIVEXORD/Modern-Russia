@@ -19,7 +19,7 @@
     "cost": 1,
     "hurryCostModifier": 40,
     "maintenance": 1,
-    "uniques": ["Destroyed when the city is captured","New [Military] units start with [99999] Experience [in this city]"],
+    "uniques": ["Destroyed when the city is captured"]
   },
   {
     "name": "Gazprom Company",
