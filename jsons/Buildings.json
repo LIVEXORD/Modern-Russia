@@ -19,9 +19,7 @@
     "cost": 1,
     "hurryCostModifier": 40,
     "maintenance": 1,
-    "uniques": ["Destroyed when the city is captured",
-               "New [Military] units start with [9999] Experience [in this city]",
-               ]
+    "uniques": ["Destroyed when the city is captured"]
   },
   {
     "name": "Gazprom Company",
@@ -29,7 +27,6 @@
     "isNationalWonder": true,
     "production": 10,
     "science": 4,
-    "uniques": ["New [Military] units starts with [9999] Experience [in this city]"],
     "requiredTech": "Biology",
     "quote": "'Газпром - национальное достояние.' - слоган компании."
   },
