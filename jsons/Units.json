@@ -22,7 +22,6 @@
 		"rangedStrength": 70,
 		"range": 10,
 		"cost": 440,
-		"requiredResource": "Aluminum",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
 			"[-1] Sight", "Never appears as a Barbarian unit"],
 		"attackSound": "artillery"
