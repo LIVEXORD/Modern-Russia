@@ -1,4 +1,13 @@
 [
+	{
+		"name": "Archer",
+		"uniqueTo": "Soviet Union",
+		"unitType": "Archery",
+		"movement": 20,
+		"strength": 30,
+		"rangedStrength": 20,
+		
+	}
   {
     "name": "Kalibr",
     "uniqueTo": "Soviet Union",
