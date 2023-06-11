@@ -140,7 +140,7 @@
 		"strength": 600,
 		"cost": 395,
 		"requiredTech": "Electronics",
-		"uniques": ["Cannot attack", "Can carry [3] [Aircraft] units"]
+		"uniques": ["Cannot attack"]
   },
   {
     "name": "Moskva",
@@ -154,8 +154,7 @@
 		"interceptRange": 2,
 		"cost": 435,
 		"requiredTech": "Robotics",
-		"uniques": ["[100]% chance to intercept air attacks", "Can see invisible [Submarine] units",
-			"Can carry [3] [Missile] units", "[+100]% Strength <vs [Submarine] units>", "Never appears as a Barbarian unit"],
+		"uniques": ["[100]% chance to intercept air attacks", "[+100]% Strength <vs [Submarine] units>", "Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
 		"attackSound": "shipguns"
 	},
@@ -169,7 +168,7 @@
 		"interceptRange": 3,
 		"cost": 365,
 		"requiredTech": "Combustion",
-		"uniques": ["Can see invisible [Submarine] units", "[40]% chance to intercept air attacks",
+		"uniques": ["[40]% chance to intercept air attacks",
 			"May withdraw before melee ([80]%)", "[+100]% Strength <vs [Submarine] units>"],
 		"attackSound": "shipguns"
   },
@@ -184,7 +183,7 @@
 		"rangedStrength": 95,
 		"cost": 445,
 		"requiredTech": "Telecommunications",
-		"uniques": ["[+75]% Strength <when attacking>", "Can only attack [Water] tiles", "[+1] Sight", "Can carry [3] [Missile] units", "Never appears as a Barbarian unit"],
+		"uniques": ["[+75]% Strength <when attacking>", "Can only attack [Water] tiles", "[+1] Sight", "Never appears as a Barbarian unit"],
 		"attackSound": "torpedo"
   }
 ]
