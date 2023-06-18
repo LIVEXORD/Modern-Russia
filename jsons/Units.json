@@ -8,15 +8,6 @@
 		"cost": 25,
 		"obsoleteTech": "Scientific Theory",
 		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
-		"promotions": ["Ignore terrain cost",
-			      "Scouting I",
-			      "Scouting II",
-			      "Scouting III",
-			      "Medic",
-			      "Medic II",
-			      "Survivalism I",
-			      "Survivalism II",
-			      "Survivalism III"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -33,26 +24,6 @@
         	"civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
 		],
-		"promotions": ["Shock I",
-			      "Shock II",
-			      "Shock III",
-			      "Blitz",
-			      "Amphibious",
-			      "Woodsman",
-			      "Sentry",
-			      "March",
-			      "Besiege",
-			      "Formation I",
-			      "Formation II",
-			      "Medic",
-			      "Medic II",
-			      "Drill I",
-			      "Drill II",
-			      "Drill III",
-			      "Cover I",
-			      "Cover II",
-			      "Ambush I",
-			      "Ambush II"]
 	},
 	{
 		"name": "Archer",
@@ -65,18 +36,6 @@
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
-		"promotions": ["Accuracy I",
-			      "Accuracy II",
-			      "Accuracy III",
-			      "Extended Range",
-			      "March",
-			      "Logistics",
-			      "Indirect Fire",
-			      "Barrage I",
-			      "Barrage II",
-			      "Barrage III",
-			      "Cover I",
-			      "Cover II"]
 		"attackSound": "arrow"
 	},
   {
