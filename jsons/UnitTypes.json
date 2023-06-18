@@ -5,11 +5,32 @@
     },
     {
         "name": "Sword",
-        "movementType": "Land"
+        "movementType": "Land",
+        
     },
     {
         "name": "Gunpowder",
-        "movementType": "Land"
+        "movementType": "Land",
+        "promotions": ["Shock I",
+			      "Shock II",
+			      "Shock III",
+			      "Blitz",
+			      "Amphibious",
+			      "Woodsman",
+			      "Sentry",
+			      "March",
+			      "Besiege",
+			      "Formation I",
+			      "Formation II",
+			      "Medic",
+			      "Medic II",
+			      "Drill I",
+			      "Drill II",
+			      "Drill III",
+			      "Cover I",
+			      "Cover II",
+			      "Ambush I",
+			      "Ambush II"]
     },
     {
         "name": "Archery",
